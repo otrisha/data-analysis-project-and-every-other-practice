@@ -3,7 +3,7 @@
 
 # My Learning Portfolio
 
-Hello 👋  
+Hello  
 My name is Patricia, and this repository contains projects I am working on while learning **Data Analysis** and **Artificial Intelligence (AI)**.
 
 ## Projects
