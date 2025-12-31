@@ -1,18 +1,18 @@
 # Data-Analysis-Project-And-Every-Other-Practice
 "Welcome to my Learning journey in Data Analysis, and Artificial Intelligence”
 
-# My GitHub Portfolio
+# My Learning Portfolio
 
-Hello
-My name is Patricia, and this repository contains projects I am working on while learning Data Analysis and AI.
-
+Hello 👋  
+My name is Patricia, and this repository contains projects I am working on while learning **Data Analysis** and **Artificial Intelligence (AI)**.
 
 ## Projects
-- Python basics
+- Python Basics
 - Statistics in R
-- Concept of AI
-- JavaScript
-- Data cleaning with Excel
-- Exploratory data analysis
+- Concepts of Artificial Intelligence
+- JavaScript Fundamentals
+- Deep Learning
+- Data Cleaning with Excel
+- Exploratory Data Analysis (EDA)
 
-I’ll keep updating this repo as I learn. 
+I’ll keep updating this repository as I continue to learn and grow 🚀
