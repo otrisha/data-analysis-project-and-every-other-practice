@@ -1,4 +1,4 @@
-# data-analysis-project-and-every-other-practice
+# Data-Analysis-Project-And-Every-Other-Practice
 "Welcome to my Learning journey in Data Analysis, and Artificial Intelligence”
 
 # My GitHub Portfolio
